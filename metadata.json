@@ -1,0 +1,6 @@
+{
+  "name": "SplitEasy - Expense Splitter & Debt Simplification",
+  "description": "A mini Splitwise for hostel roommates and trip groups. Track expenses, split equally, by exact amounts, shares or percentages, and simplify group debts with AI quick add.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
